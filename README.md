@@ -1,7 +1,7 @@
 # Samsung-SmartTV-Developer-Mode
 I just want to archive how to enable Developer Mode on newer Samsung SmartTVs with the "minimal style"-remotes
 
-My TV i tested with is the (Samsung GU55AU7199)[https://geizhals.de/samsung-gu55au7199-a2584105.html]
+My TV i tested with is the [Samsung GU55AU7199](https://geizhals.de/samsung-gu55au7199-a2584105.html)
 
 
 If you can get a hold on an older Samsung remote like in the video and use it via infrared, IT WORKS TOO.
